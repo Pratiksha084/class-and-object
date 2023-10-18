@@ -21,10 +21,7 @@ int main()
 Volume:30
 */
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
-Exp_11
-Write a function to display output*/
+/*Write a function to display output*/
 #include<iostream>
 using namespace std;
 class cuboid{
@@ -45,9 +42,7 @@ int main()
 volume of cuboid =105
 */
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
-Exp_11
+/*
 Take input from user
 */
 #include<iostream>
@@ -77,9 +72,7 @@ enter the length,breath and height:5 5 5
 Volume of cuboid=125
 */
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
-Exp_11
+/*
 shapes_vol_class*/
 #include<iostream>
 using namespace std;
@@ -167,9 +160,7 @@ Volume of the sphere is = 33.4096
 */
 
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
-Exp-11
+/*
 Write the program using class which will display the given Date,Month,Year*/
 #include<iostream>
 using namespace std;
@@ -224,9 +215,7 @@ Enter the year :23
 The date is :2th August 2023
 */
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
-EXP-11*/
+
 #include<iostream>
 using namespace std;
 class Date {
